@@ -55,10 +55,10 @@
 * **AI Tools:** Lovable
 * **Operating Systems:** Windows · Linux
 ## 📚 Certifications
-* 🤖 AI & Machine Learning Training – Elewayte
-* 📊 Completed hands-on data analysis and basic machine learning tasks using Python (Google Colab)
-* ☁️ Data Processing & Visualization – NASSCOM FutureSkills
-* 🟢 Web Development (MongoDB · JavaScript · Node.js) – Infosys Springboard
+* AI & Machine Learning Training – Elewayte
+* Completed hands-on data analysis and basic machine learning tasks using Python (Google Colab)
+* Data Processing & Visualization – NASSCOM FutureSkills
+* Web Development (MongoDB · JavaScript · Node.js) – Infosys Springboard
 
 ## 🚀 Projects
 
