@@ -21,9 +21,13 @@
 
 ## 👩‍💻 About Me
 
-* 🎓 CSE Student
-* 💡 Interested in Tech + Business
-* 💻 Building real-world projects
+* 🎓 Computer Science Engineering student at GVPCEW(A)
+* 🚀 Secured 2nd place in a Gen AI Hackathon (Next Chapter)
+* 🧠 Strong problem-solving mindset with 200+ LeetCode problems solved
+* 💡 Passionate about building scalable, user-centric real-world solutions
+* ⚡ Curious about emerging tech, especially AI tools and intelligent systems
+* 📚 Strengthening core CS fundamentals (DSA, OS, DBMS, CO)
+* 💬 Confident communicator with strong articulation and clarity
 * 📈 Learning DSA & preparing for internships
 
 <!--
