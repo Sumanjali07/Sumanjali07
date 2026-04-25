@@ -12,7 +12,7 @@
   <a href="https://leetcode.com/u/Sumanjali_1476/">
     <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge">
   </a>
-  <a href="https://your-portfolio-link">
+  <a href="https://sumanjali-thota.lovable.app">
     <img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge">
   </a>
 </p>
