@@ -54,6 +54,37 @@
 * **AI & Machine Learning:** Regression · Classification · Clustering · Neural Networks
 * **AI Tools:** Lovable
 * **Operating Systems:** Windows · Linux
+## 🚀 Projects
+
+### 📌 SplitEase – Expense Sharing Web App
+
+Developed a full-stack web application to manage and track group expenses efficiently
+
+**Features:**
+
+* Group creation and expense tracking system
+* Add, update, and delete expenses dynamically
+* Real-time UI updates for better user experience
+
+**Tech Stack:** React · Node.js · Express · MongoDB
+**Deployment:** Netlify · Render
+**Impact:** Simplifies group expense management and reduces manual calculation errors
+
+---
+
+### 📌 AI Textbook Assistant
+
+Built an AI-based application to process and analyze PDF documents and answer user queries
+
+**Features:**
+
+* Upload and extract content from PDFs
+* Generate responses based on document content
+* Interactive UI using Streamlit
+
+**Tech Stack:** Python · Streamlit
+**Deployment:** Streamlit Cloud
+**Impact:** Enhances learning by enabling quick access to information from study materials
 
 <!--
 **Sumanjali07/Sumanjali07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
