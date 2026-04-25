@@ -29,6 +29,31 @@
 * 📚 Strengthening core CS fundamentals (DSA, OS, DBMS, CO)
 * 💬 Confident communicator with strong articulation and clarity
 * 📈 Learning DSA & preparing for internships
+## 💼 Experience
+
+  * 🧠 AI & Machine Learning Trainee
+  Elewayte | 2025
+  * Worked on basic AI/ML concepts and hands-on implementations
+  * Performed data analysis and preprocessing using Python
+  * Gained understanding of model building fundamentals
+    
+## 🏆 Achievements
+
+* 🥈 Secured 2nd place in a college-level AI hackathon (AI Teaching Assistant)
+* 🧠 Solved 200+ problems on LeetCode
+* 💻 Built and deployed full-stack project: SplitEase (Expense Sharing Web App)
+* 🤖 Completed AI & Machine Learning training with hands-on projects (Elewayte)
+## 🛠 Tech Stack
+
+* **Languages:** Java · Python · C · C++ · JavaScript
+* **Frontend:** HTML · CSS · React
+* **Backend & Frameworks:** Node.js · Express.js · Flask · MERN Stack
+* **Database:** MongoDB · SQL
+* **Core Concepts:** Data Structures & Algorithms · Object-Oriented Programming
+* **Tools:** Git · GitHub · VS Code
+* **AI & Machine Learning:** Regression · Classification · Clustering · Neural Networks
+* **AI Tools:** Lovable
+* **Operating Systems:** Windows · Linux
 
 <!--
 **Sumanjali07/Sumanjali07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
