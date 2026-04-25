@@ -54,6 +54,12 @@
 * **AI & Machine Learning:** Regression · Classification · Clustering · Neural Networks
 * **AI Tools:** Lovable
 * **Operating Systems:** Windows · Linux
+## 📚 Certifications
+* 🤖 AI & Machine Learning Training – Elewayte
+* 📊 Completed hands-on data analysis and basic machine learning tasks using Python (Google Colab)
+* ☁️ Data Processing & Visualization – NASSCOM FutureSkills
+* 🟢 Web Development (MongoDB · JavaScript · Node.js) – Infosys Springboard
+
 ## 🚀 Projects
 
 ### 📌 SplitEase – Expense Sharing Web App
