@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hi, I'm Sumanjali</h1>
 
 <p align="center">
-  <a href="Sumanjalithota1476@gmail.com">
+  <a href="mailto:Sumanjalithota1476@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge">
   </a>
   <a href="https://www.linkedin.com/in/sumanjali-thota-1b667232a/">
