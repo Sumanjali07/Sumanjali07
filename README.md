@@ -22,10 +22,10 @@
 ## 👩‍💻 About Me
 
 * 🎓 Computer Science Engineering student at GVPCEW(A)
-* 🚀 Secured 2nd place in a Gen AI Hackathon (Next Chapter)
+* 🏆 Secured 2nd place in a college-level AI hackathon
 * 🧠 Strong problem-solving mindset with 200+ LeetCode problems solved
 * 💡 Passionate about building scalable, user-centric real-world solutions
-* ⚡ Curious about emerging tech, especially AI tools and intelligent systems
+* ⚡ Curious about emerging tech and intelligent systems
 * 📚 Strengthening core CS fundamentals (DSA, OS, DBMS, CO)
 * 💬 Confident communicator with strong articulation and clarity
 * 📈 Learning DSA & preparing for internships
